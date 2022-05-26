@@ -9,6 +9,7 @@ This notebook uses a .cvs that contains data about rocket launches such as the y
 ## Authors
 
 [Keegan Anglim](https://guitarkeegan.github.io/personal-portfolio-site/)
+
 [@NageekDBeat](https://twitter.com/NageekDBeat)
 
 ## Version History
